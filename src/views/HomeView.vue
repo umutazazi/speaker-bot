@@ -13,7 +13,6 @@ import Tab from '@/components/Tab.vue'
       <p class="text-gray-200 text-md">Use your favorite TTS engine with Speaker.bot</p>
     </div>
     <CardList />
-    <Tab />
 
     <USeparator
       :avatar="{
