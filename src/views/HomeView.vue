@@ -14,6 +14,7 @@ import Tab from '@/components/Tab.vue'
     </div>
     <CardList />
     <Tab />
+
     <USeparator
       :avatar="{
         src: 'https://github.com/nuxt.png',
